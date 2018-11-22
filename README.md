@@ -1,5 +1,5 @@
-Website for College Institute by Sergio SalmerÛn Version 2
+Website for College Institute by Sergio Salmer√≥n Version 2
 
 TCI is a center where young Nicaraguans from public and private schools work together for a better Nicaragua. From the ninth grade (third year) they can apply to the TCI Fellows program, and are selected for their maturity, commitment, and vocation for service.
 
-Made with ? by Jake ZeledÛn
+Made with ‚ù§ by Jake Zeled√≥n
