@@ -1,9 +1,19 @@
+/** Colors **/
+
 .blue-tci-bg {
-    background-color: #01467F;
+    background-color: #01467F !important;
 }
 
 .red-tci-bg {
-    background-color: #BB0C25;
+    background-color: #BB0C25 !important;
+}
+
+.blue-tci-bg-transparent {
+    background-color: rgba(1, 70, 127, 0.8) !important;
+}
+
+.red-tci-bg-transparent {
+    background-color: rgba(187, 12, 37, 0.8) !important;
 }
 
 .blue-tci-text {
@@ -12,4 +22,44 @@
 
 .red-tci-text {
     color: #BB0C25;
+}
+
+/** Intro landing page **/
+.bg {
+    background: url("../img/media/bg.jpg")no-repeat center center;
+    background-size: cover;
+}
+
+main,
+.bg {
+    height: 88%;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+.top-nav-collapse {
+    background-color: rgba(1, 70, 127, 0.8) !important;
+}
+  
+.navbar:not(.top-nav-collapse) {
+    background: transparent !important;
+}
+  
+@media (max-width: 991px) {
+    .navbar:not(.top-nav-collapse) {
+      background: rgba(1, 70, 127, 0.8) !important;
+    }
+}
+
+.streak.streak-photo {
+    background-attachment: fixed;
 }
